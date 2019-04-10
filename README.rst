@@ -133,7 +133,7 @@ most recent distributions. You need pip >= 1.4 and setuptools >= 0.8.
 
 .. code:: bash
 
-    $ pip install py-mini-racer
+    $ pip install py-speedy-run
 
 If you're running Alpine, Pypi isn't able to host the dedicated wheels.  
 We're making them available with the following command.
